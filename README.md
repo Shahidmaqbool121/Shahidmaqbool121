@@ -1,8 +1,3 @@
-
-
-<!--
-**Shahidmaqbool121/Shahidmaqbool121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm currently developing my skills on Full Stack Web Development<br> Front-End Developer<br>installs and tests user interface elements of websites<br><br><br>
 
