@@ -19,3 +19,4 @@ I'm currently developing my skills on Full Stack Web Development<br>Front-End De
 [![](https://visitcount.itsvg.in/api?id=Shahidmaqbool121&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=shahidmaqbool121&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
